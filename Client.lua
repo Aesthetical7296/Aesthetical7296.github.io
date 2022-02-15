@@ -1,6 +1,6 @@
 shared.key = shared.key or "KEY_HERE"
 
-local Domain = "demo.lexir.rocks"
+local Domain = "LynzChloe.github.io"
 
 local ValidationURL = "https://%s/Authenticate.php?key=%s&rand=%d"
 local Rand = math.random(-10000000, 10000000)
