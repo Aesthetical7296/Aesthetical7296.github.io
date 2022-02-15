@@ -3,7 +3,7 @@
 define('USER_DOMAIN', 'LynzChloe.github.io');
 # Url to redirect to when solving. Below is just an example, I recommend
 # putting a LinkVertise on top of it, so that way you can earn some money from ADs.
-define('http://adfoc.us/7374571', 'https://' . USER_DOMAIN . '/Generate.php?solve=1');
+define('http://fumacrom.com/3kvJp', 'https://' . USER_DOMAIN . '/Generate.php?solve=1');
 
 # Database Configuration
 define('DB_HOST', 'sql102.epizy.com');
